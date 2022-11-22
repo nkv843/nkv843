@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kirill</h1>
+<h1 align="center">Hi 👋, my name is Kirill</h1>
 <h3 align="center">I am frontend developer from Moldova</h3>
 
 - **origin:** Nuclear power engineer
