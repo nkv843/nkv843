@@ -28,5 +28,5 @@
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/nkv843?theme=default&font=baloo&extension=null)
 
-![Codewars](https://github.r2v.ch/codewars?user=nkv843&stroke=%c2c2c2&theme=light&name=true&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=nkv843&stroke=rgb(110,110,110)&theme=light&name=true&top_languages=true)
 
