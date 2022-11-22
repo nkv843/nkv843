@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">I am frontend developer from Moldova</h3>
 
-- origin: Nuclear power engineer
-- pivoted: From engineering to frontend development 
-- major insight so far: Architectural mistakes are the most critical
-- fundamental maxim: The world runs on probabilities
+- **origin:** Nuclear power engineer
+- **pivoted:** From industrial to software
+- **major insight so far:** Architectural mistakes are the most critical
+- **fundamental maxim:** The world runs on probabilities
 
 <h3 align="left">📫 How to reach me</h3>
 <p align="left">
