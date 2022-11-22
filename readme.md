@@ -28,5 +28,4 @@
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/nkv843?theme=default&font=baloo&extension=null)
 
-`https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen&card&customcolor=bg:2a295b_fg:b500ed_text:fc4646_logo:2a295b_stroke:f75402`
-![](./svg/customCard.svg)
+
