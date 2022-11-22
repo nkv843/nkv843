@@ -6,13 +6,13 @@
 - **major insight so far:** Architectural mistakes are the most critical
 - **fundamental maxim:** The world runs on probabilities
 
-<h3 align="left">📫 How to reach me</h3>
+<h3 align="left">Reach me: </h3>
 <p align="left">
 <a href="https://t.me/nkv843" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="30" width="40" /></a>
 <a href="mailto:nkv843@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nkv843/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nkv843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
@@ -35,5 +35,3 @@
 
 <a href="https://leetcode.com/nkv843/" target="_blank">![LeetCode Stats](https://leetcode.card.workers.dev/nkv843?theme=default&font=baloo&extension=null)</a> 
 <a href="https://www.codewars.com/users/nkv843" target="_blank">![Codewars](https://github.r2v.ch/codewars?user=nkv843&stroke=gainsboro&theme=light&name=true)</a> 
-
-
