@@ -32,6 +32,8 @@
 </p>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/nkv843?theme=default&font=baloo&extension=null)
+<a href="https://www.figma.com/" target="_blank"> 
+![Codewars](https://github.r2v.ch/codewars?user=nkv843&stroke=gainsboro&theme=light&name=true)
+</a> 
 
-![Codewars](https://github.r2v.ch/codewars?user=nkv843&stroke=gainsboro&theme=light&name=true(https://www.codewars.com/users/nkv843))
 
