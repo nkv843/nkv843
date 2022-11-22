@@ -5,7 +5,7 @@
 
 - 👯 Looking to collaborate on **interesting projects to improve my skill**
 
-- 📫 How to reach me **nkv843@gmail.com**
+- 📫 How to reach me **nkv843@gmail.com** or **t.me/nkv843**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
