@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">I am frontend developer from Moldova</h3>
 
-- 🌱 Currently improving my skills in the frontend stack 
-
-- 👯 Looking to collaborate on **interesting projects to improve my skill**
-
+- origin: Nuclear power engineer
+- pivoted: From engineering to frontend development 
+- major insight so far: Architectural mistakes are the most critical
+- fundamental maxim: The world runs on probabilities
 
 <h3 align="left">📫 How to reach me</h3>
 <p align="left">
@@ -31,8 +31,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
  
-
-
 <a href="https://leetcode.com/nkv843/" target="_blank">![LeetCode Stats](https://leetcode.card.workers.dev/nkv843?theme=default&font=baloo&extension=null)</a> 
 
 <a href="https://www.codewars.com/users/nkv843" target="_blank">![Codewars](https://github.r2v.ch/codewars?user=nkv843&stroke=gainsboro&theme=light&name=true)</a> 
