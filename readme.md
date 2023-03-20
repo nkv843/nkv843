@@ -40,3 +40,4 @@
 
 <h3 align="left">Work examples:</h3>
 <a href="https://github.com/nkv843/weather-app" target="_blank">- Weather app</a>
+<a href="https://github.com/nkv843/pixel-art" target="_blank">- Pixel art</a>
