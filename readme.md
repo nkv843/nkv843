@@ -3,9 +3,7 @@
 
 - **Origin:** Nuclear power engineer
 - **Pivoted:** From industrial to software
-- **Major insight so far:** Architectural mistakes are the most critical
-- **Fundamental maxim:** The world runs on probabilities
-
+- 
 <h3 align="left">Reach me: </h3>
 <p align="left">
 <a href="https://t.me/nkv843" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="30" width="40" /></a>
