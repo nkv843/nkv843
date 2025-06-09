@@ -34,5 +34,3 @@
 <!-- <a href="https://leetcode.com/nkv843/" target="_blank">![LeetCode Stats](https://leetcode.card.workers.dev/nkv843?theme=default&font=baloo&extension=null)</a>  -->
 <a href="https://www.codewars.com/users/nkv843" target="_blank">![Codewars](https://github.r2v.ch/codewars?user=nkv843&stroke=gainsboro&theme=light&name=true)</a> 
 
-<h3 align="left">Work examples:</h3>
-<p><a href="https://github.com/nkv843/pixel-art" target="_blank">- Pixel art</a></p>
