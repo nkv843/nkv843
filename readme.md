@@ -34,3 +34,7 @@
 <!-- <a href="https://leetcode.com/nkv843/" target="_blank">![LeetCode Stats](https://leetcode.card.workers.dev/nkv843?theme=default&font=baloo&extension=null)</a>  -->
 <a href="https://www.codewars.com/users/nkv843" target="_blank">![Codewars](https://github.r2v.ch/codewars?user=nkv843&stroke=gainsboro&theme=light&name=true)</a> 
 
+# DOCX Template Editor
+[![Open App](https://img.shields.io/badge/Visit-App-green)](https://docx-template-editor.vercel.app/)
+**DOCX Template Editor** is a lightweight web tool for editing `.docx` templates with dynamic variables. 
+Upload one or more documents, fill in the required fields, save your frequently used document sets and download a ready-to-use `.docx` files.
