@@ -37,4 +37,4 @@
 # DOCX Template Editor
 [![Open App](https://img.shields.io/badge/Visit-App-green)](https://docx-template-editor.vercel.app/)
 **DOCX Template Editor** is a lightweight web tool for editing `.docx` templates with dynamic variables. 
-Upload one or more documents, fill in the required fields, save your frequently used document sets and download a ready-to-use `.docx` files.
+Upload one or more documents, fill in the required fields, save your frequently used document sets and download ready-to-use `.docx` files.
